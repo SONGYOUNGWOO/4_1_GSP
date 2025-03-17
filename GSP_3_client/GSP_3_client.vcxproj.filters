@@ -18,7 +18,10 @@
     <ClCompile Include="blockingcl.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="threadcl.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="gsp_3_client.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
